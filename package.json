@@ -10,8 +10,8 @@
   "author": "Jing Zhou <gnijuohz@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "echarts": "^3.6.2",
-    "leaflet": "^1.1.0"
+    "echarts": "^5.1.2",
+    "leaflet": "^1.7.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
@@ -22,5 +22,6 @@
     "rollup-plugin-babel": "^3.0.2",
     "rollup-plugin-commonjs": "^9.1.0",
     "rollup-plugin-node-resolve": "^3.0.0"
-  }
+  },
+  "dependencies": {}
 }
